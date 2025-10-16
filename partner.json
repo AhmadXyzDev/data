@@ -63,5 +63,10 @@
     "username": "bajingan",
     "password": "123",
     "createdAt": "2025-10-12T13:21:05.158Z"
+  },
+  {
+    "username": "dsstore",
+    "password": "dsstore123",
+    "createdAt": "2025-10-16T00:41:09.716Z"
   }
 ]
